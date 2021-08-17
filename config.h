@@ -6,7 +6,11 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "TerminessTTF Nerd Font:style=Bold:size=14:antialias=true";
-static int borderpx = 24;
+/* Spare fonts */
+static char *font2[] = {
+    "Noto Color Emoji:style=Regular:size=12:antialias=true:autohint=true"
+};
+static int borderpx = 12;
 
 /*
  * What program is execed by st depends of these precedence rules:

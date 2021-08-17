@@ -18,6 +18,8 @@
 
 [Nordtheme v0.8.2](https://st.suckless.org/patches/nordtheme/)
 
+[Font2 20190416-ba72400](https://st.suckless.org/patches/font2/)
+
 [Scrollback v0.8.2](https://st.suckless.org/patches/scrollback/)
 
     Scrollback mouse v20191024-a2c479c
