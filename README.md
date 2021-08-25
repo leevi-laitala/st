@@ -39,3 +39,8 @@ sudo make install
 ```
 
 
+
+## Color emoji fix
+
+Just apply [this](https://github.com/uditkarode/libxft-bgra) patch to X.
+
